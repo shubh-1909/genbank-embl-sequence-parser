@@ -8,7 +8,7 @@ It also provides **interactive exploration** using Google Colab DataTables or qg
 
 ## 🚀 Run on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/genbank-embl-sequence-parser/blob/main/notebooks/GenBank_EMBL_Parser.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/genbank-embl-sequence-parser/blob/main/notebooks/notebooks/GenBank_EMBL_Parser.ipynb)
 
 ---
 
